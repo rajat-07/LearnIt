@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/LearnIt/static/css/main.a3dd70c7.chunk.css",
+    "main.js": "/LearnIt/static/js/main.57362a68.chunk.js",
+    "main.js.map": "/LearnIt/static/js/main.57362a68.chunk.js.map",
+    "runtime-main.js": "/LearnIt/static/js/runtime-main.0bc98a64.js",
+    "runtime-main.js.map": "/LearnIt/static/js/runtime-main.0bc98a64.js.map",
+    "static/css/2.d623fad8.chunk.css": "/LearnIt/static/css/2.d623fad8.chunk.css",
+    "static/js/2.5af9846a.chunk.js": "/LearnIt/static/js/2.5af9846a.chunk.js",
+    "static/js/2.5af9846a.chunk.js.map": "/LearnIt/static/js/2.5af9846a.chunk.js.map",
+    "index.html": "/LearnIt/index.html",
+    "precache-manifest.09c546e1e27d9a7350da20aa1b24dd02.js": "/LearnIt/precache-manifest.09c546e1e27d9a7350da20aa1b24dd02.js",
+    "service-worker.js": "/LearnIt/service-worker.js",
+    "static/css/2.d623fad8.chunk.css.map": "/LearnIt/static/css/2.d623fad8.chunk.css.map",
+    "static/css/main.a3dd70c7.chunk.css.map": "/LearnIt/static/css/main.a3dd70c7.chunk.css.map",
+    "static/js/2.5af9846a.chunk.js.LICENSE.txt": "/LearnIt/static/js/2.5af9846a.chunk.js.LICENSE.txt",
+    "static/media/banner-2.jpg": "/LearnIt/static/media/banner-2.81d9dc66.jpg",
+    "static/media/Home.css": "/LearnIt/static/media/home-banner.5b7db7d0.jpg",
+    "static/media/course-1.jpg": "/LearnIt/static/media/course-1.433d63a0.jpg",
+    "static/media/course-2.jpg": "/LearnIt/static/media/course-2.7304c872.jpg",
+    "static/media/course-3.jpg": "/LearnIt/static/media/course-3.95082937.jpg",
+    "static/media/course-4.jpg": "/LearnIt/static/media/course-4.1bb2b14b.jpg",
+    "static/media/course-5.jpg": "/LearnIt/static/media/course-5.7cfea538.jpg",
+    "static/media/l-blog-1.jpg": "/LearnIt/static/media/l-blog-1.04b2f92a.jpg",
+    "static/media/l-blog-2.jpg": "/LearnIt/static/media/l-blog-2.cb1dfa10.jpg",
+    "static/media/l-blog-3.jpg": "/LearnIt/static/media/l-blog-3.6886c952.jpg",
+    "static/media/l-blog-4.jpg": "/LearnIt/static/media/l-blog-4.122d5f4d.jpg",
+    "static/media/Impress.css": "/LearnIt/static/media/notify-bg.89b85f8d.jpg",
+    "static/media/team-1.jpg": "/LearnIt/static/media/team-1.4feff250.jpg",
+    "static/media/team-2.jpg": "/LearnIt/static/media/team-2.965dad5b.jpg",
+    "static/media/team-3.jpg": "/LearnIt/static/media/team-3.57e62c6c.jpg",
+    "static/media/team-4.jpg": "/LearnIt/static/media/team-4.a0f5a105.jpg",
+    "static/media/testi-3.png": "/LearnIt/static/media/testi-3.4603d0e2.png",
+    "static/media/video-1.jpg": "/LearnIt/static/media/video-1.601968cb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bc98a64.js",
+    "static/css/2.d623fad8.chunk.css",
+    "static/js/2.5af9846a.chunk.js",
+    "static/css/main.a3dd70c7.chunk.css",
+    "static/js/main.57362a68.chunk.js"
+  ]
+}
