@@ -1,0 +1,16 @@
+.impress_area {
+  background: url(../../images/notify-bg.jpg) no-repeat scroll center center;
+  background-size: cover;
+}
+.impress_area .impress_inner {
+  color: #fff;
+}
+.impress_area .impress_inner h2 {
+  text-transform: uppercase;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+.impress_area .impress_inner p {
+  max-width: 770px;
+  margin: 0px auto 45px;
+}

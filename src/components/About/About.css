@@ -1,0 +1,134 @@
+.banner_area {
+  position: relative;
+  z-index: 1;
+  min-height: 300px;
+}
+.banner_area .banner_inner {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 300px;
+  background: #04091e;
+  z-index: 1;
+}
+.banner_area .banner_inner .overlay {
+  /* background: url(../../images/banner/home-banner.jpg) no-repeat scroll center */
+    /* center; */
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 125%;
+  bottom: 0;
+  z-index: -1;
+  opacity: 0.6;
+}
+.banner_area .banner_inner .banner_content h2 {
+  color: #fff;
+  font-size: 48px;
+  font-family: "Playfair Display", serif;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+.banner_area .banner_inner .banner_content .page_link a {
+  font-size: 14px;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  margin-right: 32px;
+  position: relative;
+}
+.banner_area .banner_inner .banner_content .page_link a:before {
+  content: "\e87a";
+  font-family: "Linearicons-Free";
+  position: absolute;
+  right: -25px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.banner_area .banner_inner .banner_content .page_link a:last-child {
+  margin-right: 0px;
+}
+.banner_area .banner_inner .banner_content .page_link a:last-child:before {
+  display: none;
+}
+.banner_area .banner_inner .banner_content .page_link a:hover {
+  color: #4dbf1c;
+}
+
+.about_inner .accordion .card {
+  border: none;
+  margin-bottom: 10px;
+}
+.about_inner .accordion .card .card-header {
+  padding: 0px;
+  border: none;
+  background: transparent;
+}
+.about_inner .accordion .card .card-header button {
+  padding: 0px;
+  display: block;
+  width: 100%;
+  text-align: left;
+  position: relative;
+  border-radius: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-size: 14px;
+  color: #222222;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+  background: #4dbf1c;
+  color: #fff;
+}
+.about_inner .accordion .card .card-header button i {
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: none;
+}
+.about_inner .accordion .card .card-header button i + i {
+  display: inline-block;
+}
+.about_inner .accordion .card .card-header button.collapsed {
+  background: #f9f9ff;
+  color: #222222;
+}
+.about_inner .accordion .card .card-header button.collapsed i {
+  display: inline-block;
+}
+.about_inner .accordion .card .card-header button.collapsed i + i {
+  display: none;
+}
+.about_inner .accordion .card .card-body {
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.video_area {
+  float: right;
+  display: inline-block;
+  position: relative;
+}
+.video_area .popup-youtube {
+  position: absolute;
+  left: 0px;
+  text-align: center;
+  width: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.about_details {
+  margin-top: 55px;
+}
+.about_details p {
+  margin-bottom: 20px;
+}
+.about_details p:last-child {
+  margin-bottom: 0px;
+}
